@@ -33,7 +33,7 @@ while True:
  print("Server > ",s.recv(1024).decode())
 ```
 ## OUPUT:
-![CN 3a op](https://github.com/22008837/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/120194155/314bfdf7-1e8c-4b7c-b027-fa791b411210)
+![CN 3a op](https://github.com/22008837/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/120194155/382979fe-0d09-45d0-b7c3-96797da7548f)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
